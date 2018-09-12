@@ -213,7 +213,7 @@ $ENDCMP
 $CMP LTC2983
 D Multi-Sensor Temperature Measurement System, High Accuracy, LQFP-48 (7x7mm)
 K Flexible Temperature Measurement RTD NTC Cold Junction Termocouple
-F http://cds.linear.com/docs/en/datasheet/2983f.pdf
+F http://cds.linear.com/docs/en/datasheet/2983fc.pdf
 $ENDCMP
 #
 $CMP MAX31820
@@ -394,6 +394,12 @@ $CMP TMP20AIDRL
 D Analog thermistor temperature sensor, ±2.5C accuracy, -55C to +130C, SOT-563-6
 K temperature sensor thermistor
 F http://www.ti.com/lit/ds/symlink/tmp20.pdf
+$ENDCMP
+#
+$CMP TMP36xS
+D Low Voltage Temperature Sensor, SOIC-8
+K Temperature Sensor SOIC-8
+F http://www.analog.com/media/en/technical-documentation/data-sheets/TMP35_36_37.pdf
 $ENDCMP
 #
 $CMP TMP411

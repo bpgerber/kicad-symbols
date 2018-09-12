@@ -6,6 +6,12 @@ K diode triode valve
 F https://frank.pocnet.net/sheets/082/e/EABC80.pdf
 $ENDCMP
 #
+$CMP 6SN7
+D Low-Gain Octal Tube Amplifier, 20 Mu, 250V Plate, 2.5W dissipation
+K Octal, Tube, Amp, 250V, 20 Mu
+F https://frank.pocnet.net/sheets/127/6/6SN7GT.pdf
+$ENDCMP
+#
 $CMP 9AK8
 D triple diode triode
 K diode triode valve 
